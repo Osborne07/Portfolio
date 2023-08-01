@@ -1,2 +1,2 @@
 # Portfolio
-Basic information about omkar through a web page
+Basic information about Omkar Jagtap through a web page
